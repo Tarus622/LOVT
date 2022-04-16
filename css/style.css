@@ -156,3 +156,66 @@ color: #888888;
     font-weight: 400;
     color: #FFFFFF;
 }
+
+.frase2 {
+margin-top: 5%;
+font-family: 'Ropa Sans';
+font-size: 40px;
+font-weight: 400;
+line-height: 27px;
+line-height: 100%;
+align-self: center;
+vertical-align: center;
+color: #888888;
+}
+
+.final {
+    width: 100%;
+    height: 37%;
+    background-color: #333333;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5%;
+}
+
+.informations {
+    padding-right: 5%;
+    font-family: 'Ropa Sans';
+    font-size: 24px;
+    line-height: 50px;
+    vertical-align: top;
+    color: #FFFFFF;
+}
+
+.map_img {
+    border-radius: 30px;
+}
+
+.social_network {
+    font-family: 'Ropa Sans';
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.social_medias {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 12px;
+}
+
+.instagram {
+    width: 40px;
+    height: 40px;
+}
+
+.whatsapp {
+    width: 40px;
+    height: 40px;
+}
+
+.facebook {
+    width: 40px;
+    height: 40px;
+}
